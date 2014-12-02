@@ -1,0 +1,3 @@
+Password Entropy: 15.5
+Password Length: 6
+Password Strength: Very Weak
